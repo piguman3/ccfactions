@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "aee5e9da6d815ad424de47fbf6e90e64dee5de44db7a4260228916c9f18c8deb"
+metafile = true
+
+[[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true

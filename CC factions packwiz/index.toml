@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "aee5e9da6d815ad424de47fbf6e90e64dee5de44db7a4260228916c9f18c8deb"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "a9d9db0f7fb2e95f71bb656771c59c2d633a4acd11068f2aebbf982e267fb044"
 metafile = true
 
 [[files]]
@@ -21,6 +31,26 @@ hash = "84bc0fd3c0936b57882354af57f54a7f9465f1d703262451b13371c320c3ef8c"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "468ceb2d2976dd9464670ebb5938ec96c345301e2b9df7cb052c501c61ae2e35"
+metafile = true
+
+[[files]]
+file = "mods/hooked.pw.toml"
+hash = "efcdd70677801727950cc217b17de0d912655ac2657828f58f6e4091f3262749"
+metafile = true
+
+[[files]]
+file = "mods/icbm-classic-cc-addon.pw.toml"
+hash = "026d13da36dcfbb7a86f0f11a94df7996152667daa58ca5a42978eb5b3eb731d"
+metafile = true
+
+[[files]]
+file = "mods/icbm.pw.toml"
+hash = "f11a4d506da2fd2ddc1fc22b6c7ceb3d39d63dbfe4de401d802749ff95e301a5"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
@@ -31,8 +61,33 @@ hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
 metafile = true
 
 [[files]]
+file = "mods/librarianlib.pw.toml"
+hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
+metafile = true
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "e0625670634c7616fcb0f4ee6d1dcaeadb143ae3af4178b88c48d09ad564ac3f"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c4cd4a393cb45b6fc15394153ba82707338b9aa482a5f6104ac8b384f3c2e3bd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "57b0df67bfecec52a53c1c455d6586b9d27be7481eb916a3df9926cf4b8f71e9"
 metafile = true
 
 [[files]]
